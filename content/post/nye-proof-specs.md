@@ -1,5 +1,5 @@
 ---
-date: "2025-04-15T19:30:32+02:00"
+date: "2025-08-14T19:30:32+02:00"
 title: "New Year's Eve-Proofing Your Specifications"
 ---
 
